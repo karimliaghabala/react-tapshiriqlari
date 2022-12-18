@@ -1,0 +1,17 @@
+.p-info,
+.e-info,
+.c-info {
+  width: 400px;
+  height: 100%;
+  background-color: slategray;
+  text-align: center;
+}
+h1 {
+  background-color: tan;
+}
+h3 {
+  background-color: violet;
+}
+p {
+  background-color: yellowgreen;
+}
